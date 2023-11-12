@@ -5,11 +5,17 @@ import 'package:flutter/material.dart';
 
 // ignore: must_be_immutable
 class LiveIndicator extends StatefulWidget {
+  /// child widget
   final Widget child;
+  /// radius of indicator
   double radius;
+  /// radius of spread
   double? spreadRadius;
+  /// color of indicator
   Color color;
+  /// duration to animate the spread, it controls how fast the ripple happens, 
   Duration spreadDuration;
+  /// duration to wait between spread animations. it controls the frequency of the ripples.
   Duration waitDuration;
   LiveIndicator({
     super.key,
