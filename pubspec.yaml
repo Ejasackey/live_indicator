@@ -1,6 +1,6 @@
 name: live_indicator
 description: A very simple package to display the live ripple effect.
-version: 0.0.3
+version: 0.0.3+2
 homepage: https://github.com/Ejasackey/live_indicator
 
 environment:
