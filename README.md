@@ -16,7 +16,7 @@ A very simple package to display the live ripple effect.
 
 ## Features
 
-![demo_1](assets/live_product.gif) ![demo_1](assets/play_button.gif)
+![demo_1](assets/live_product.gif) ![demo_2](assets/play_button.gif)
 
 
 ## Getting started

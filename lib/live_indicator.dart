@@ -3,7 +3,6 @@ library live_indicator;
 import 'dart:async';
 import 'package:flutter/material.dart';
 
-
 // ignore: must_be_immutable
 class LiveIndicator extends StatefulWidget {
   final Widget child;
