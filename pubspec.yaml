@@ -1,6 +1,6 @@
 name: live_indicator
-description: A very simple package to display the live ripple effect.
-version: 0.0.3+2
+description: A very simple package to display the live ripple effect. it can also be used to give any widget the rippling effect, just assign it to the child.
+version: 0.0.4
 homepage: https://github.com/Ejasackey/live_indicator
 
 environment:
